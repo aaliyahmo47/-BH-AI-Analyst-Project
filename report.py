@@ -6,7 +6,7 @@ import openai
 import pandas as pd
 
 # ── Configuration ──────────────────────────────────────────
-API_KEY = "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"
+API_KEY = "code"
 client = openai.OpenAI(api_key=API_KEY)
 
 # ── Step 1: Extract and Transform Data ─────────────────────
